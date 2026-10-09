@@ -1,0 +1,13 @@
+# Java build output
+out/
+build/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# macOS metadata
+.DS_Store
+__MACOSX/
